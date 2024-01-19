@@ -302,6 +302,7 @@
     top: 0;
     right: 0;
     width: var(--svrollbar-track-width, 10px);
+    z-index: 99999999;
   }
 
   .v-scrollbar.fixed {
